@@ -21,3 +21,5 @@ Suggests:
 Config/testthat/edition: 3
 Imports: 
     forcats
+URL: https://github.com/smailmy/myfirstrpackage
+BugReports: https://github.com/smailmy/myfirstrpackage/issues
